@@ -98,3 +98,7 @@ export EDITOR='vim'
 
 alias storage-inf="df -h --total"
 alias open="xdg-open"
+
+
+# Set vi mode 
+set -o vi
